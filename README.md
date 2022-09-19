@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mubashir Ahmed
+- 👋 Hi, My name is Mubashir Ahmed
 - 👀 I’m interested in Software Engineering
 - 🌱 Web and AI Chatbot Developer 
 - 📫 Email: mubashir200017@gmail.com.
