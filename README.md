@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 Web and AI Chatbot Developer 
 - 📫 Email: mubashir200017@gmail.com.
-- Portfolio at mubashir.me
+- Portfolio: http://mubashir.me
