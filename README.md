@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mubashir Ahmed 👋</h1>
 
 <p align="center">
-  🌐 AI Engineer || Web Developer <br/>
+  🤖 AI/ML Engineer || 🧠 LLM Engineer || Web Developer <br/>
   <a href="https://mubashir.me" target="_blank">🌟 Portfolio</a> • 
   <a href="mailto:contact@mubashir.me">📫 Email</a>
 </p>
